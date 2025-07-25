@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritchmond Tajarros</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<!--
-**tajarrosr/tajarrosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 💻 I'm a passionate frontend developer
+- 🔭 Currently working on: my personal portfolio
+- 🌱 Learning: React, Next.js, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- HTML, CSS, JavaScript
+- TailwindCSS, Bootstrap
+- React, Next.js
+- Git, GitHub
+
+### 📫 Contact Me
+
+- Email: `ritchmondtajarros@example.com`
+- Portfolio: [ritchmondtajarros.vercel.app](https://ritchmondtajarros.vercel.app)
+
+---
+
+Thanks for visiting!
+
