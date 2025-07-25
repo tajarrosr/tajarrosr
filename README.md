@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritchmond Tajarros</h1>
 <p align="center">
-  <img src="https://imgur.com/a/yVXNfub.gif" width="300" />
+  <img src="https://i.imgur.com/WZQdU4o.gif" width="300" />
 </p>
 
 ### 👨‍💻 About Me
