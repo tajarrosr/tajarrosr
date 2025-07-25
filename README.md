@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sleep.gif" with="200"/>
-  <img src="assets/code.gif" with="200"/>
-  <img src="assets/eat.gif" with="200"/>
+  <img src="assets/sleep.gif" height="150" width="150" />
+  <img src="assets/code.gif" height="150" width="150" />
+  <img src="assets/eat.gif" height="150" width="150" />
 </p>
