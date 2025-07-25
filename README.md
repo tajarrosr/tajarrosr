@@ -14,16 +14,18 @@
     </td>
   </tr>
   <tr>
+    <td align="center">⇨</td>
+    <td align="center">⇨</td>
+    <td align="center">⇨</td>
+  </tr>
+    <tr>
     <td align="center">⇧</td>
     <td></td>
     <td align="center">⇩</td>
   </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <code> ⇦ ────────────────────────────────────────────────────────────────── ⇦ </code>
-    </td>
+      <tr>
+    <td align="center">⇦</td>
+    <td align="center">⇦</td>
+    <td align="center">⇦</td>
   </tr>
-
-
-  
 </table>
