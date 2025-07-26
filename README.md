@@ -20,7 +20,7 @@
   </tr>
     <tr>
     <td align="center">🔼</td>
-    <td></td>
+    <td align="center">Repeat</td>
     <td align="center">🔽</td>
   </tr>
       <tr>
